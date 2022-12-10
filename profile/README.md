@@ -1,12 +1,7 @@
-# WLAFDEV 
+# [riklol](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
+## roadmap of something
+- there's no road, only 01
 
-
-viva la f <br>
-viva la f <br>
-viva la fresca Carolina <br>
-che c'ha la f <br>
-che c'ha la f <br>
-che c'ha la Francia <br>
-fine <br>
-(altro che Rimbaud qua)
+## other
+- we use arch btw
